@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping("/yobo")
     public String testFunction(){
-        return "test successful";
+        return "test successfully done";
     }
     
 }
